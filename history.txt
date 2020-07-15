@@ -1,1 +1,1 @@
-Probando git reset --hard to a specific file
+Prueba 2
